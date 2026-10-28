@@ -1,5 +1,9 @@
 # users-app-django-react
 
+Repository created as part of a take-home assignment during the interview process in late 2021.
+
+---
+
 How to run app (with docker):
 ```
 git clone https://github.com/artemudovyk/users-app-django-react
